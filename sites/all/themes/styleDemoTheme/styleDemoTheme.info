@@ -1,0 +1,14 @@
+name = Style Demo theme
+core = 7.x
+engine = phptemplate
+stylesheet[all][] = template.css
+
+regions[slideshow] = Slideshow
+regions[content_header] = Content Header
+regions[content] = Content
+regions[content_footer] = Content Footer
+regions[sidebar_left] = Sidebar Left
+regions[sidebar_right] = Sidebar Right
+regions[sub_footer] = Sub footer
+regions[help] = Help
+regions[inline] = Inline
